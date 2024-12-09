@@ -14,6 +14,9 @@ pnpm dev
 bun dev
 ```
 
+Node Version: 22.12.0
+Currently at: [Part 3](https://strapi.io/blog/epic-next-js-14-tutorial-learn-next-js-by-building-a-real-life-project-part-3?utm_source=yt-card-link&utm_campaign=DevRel%2520Epic%2520Next%2520Course)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
